@@ -2,7 +2,7 @@
 
 # How to install
 
-`pip install -r requirements.txt`\n
+`pip install -r requirements.txt`.
 To install packages use this command in console
 
 # What is this
