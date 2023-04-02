@@ -16,7 +16,7 @@ def arrayOfIDs(filename):
         item_IDS.remove(item_IDS[0])
         print(item_IDS)
     
-    for item in item_IDS:
+    for item in item_IDS: 
         getDataForItem(skyblock_id=item)
 
 
